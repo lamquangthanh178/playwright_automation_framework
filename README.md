@@ -1,4 +1,4 @@
-# Demoblaze Automation Framework
+# Demoblaze Automation Framework.
 
 Playwright + TypeScript test suite for https://www.demoblaze.com.
 
